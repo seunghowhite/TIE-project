@@ -41,7 +41,7 @@
 자신의 운동 사진을 올리면서 운동 인증.
 운동사진에 댓글기능.
 게시글 CRUD
-댓글.CRD
+댓글 CRD
 
 <img width="222" alt="image" src="https://user-images.githubusercontent.com/105100315/227180341-e94dfb30-1853-4bd1-9d71-9b11d6029221.png">
 
@@ -62,13 +62,10 @@
 ### 1. [CREATE]
 
 
-
 ### 2. [READ]
 
 
-
 ### 3. [UPDATE & DELETE]
-
 
 
 <hr/>
@@ -79,8 +76,8 @@
 
 |   이름    |          깃허브 주소          |                            역할 분담                             |
 | :-------: | :---------------------------: | :--------------------------------------------------------------: |
-| 👧 백승호 ||https://github.com/seunghowhite |로그인, 토큰값 활용,  |
-| 👦 이주희 |  |CRUD  |
+| 👦 백승호 |https://github.com/seunghowhite |로그인, 토큰값 활용, |
+| 👧 이주희 |https://github.com/2ggg |CRUD  |
 
 <hr/>
 
