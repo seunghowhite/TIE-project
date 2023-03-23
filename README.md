@@ -36,14 +36,15 @@
 <br>
 
 ### 🔧 주요 기능
-<img width="297" alt="image" src="https://user-images.githubusercontent.com/105100315/227180134-d4880885-ef24-4ac1-b85c-4530c8da9cca.png">
+<img width="297" alt="image" src="https://user-images.githubusercontent.com/105100315/227180134-d4880885-ef24-4ac1-b85c-4530c8da9cca.png"><img width="222" alt="image" src="https://user-images.githubusercontent.com/105100315/227180341-e94dfb30-1853-4bd1-9d71-9b11d6029221.png">
+
+<img width="209" alt="image" src="https://user-images.githubusercontent.com/105100315/227209800-380ec896-d14a-4034-9980-16e438ab2a85.png"><img width="200" alt="image" src="https://user-images.githubusercontent.com/105100315/227209897-c5f14075-8191-4f21-ac5c-dd530b828054.png">
+
 
 자신의 운동 사진을 올리면서 운동 인증.
 운동사진에 댓글기능.
 게시글 CRUD
 댓글 CRD
-
-<img width="222" alt="image" src="https://user-images.githubusercontent.com/105100315/227180341-e94dfb30-1853-4bd1-9d71-9b11d6029221.png">
 
 
 ## 📝 기능 구현
